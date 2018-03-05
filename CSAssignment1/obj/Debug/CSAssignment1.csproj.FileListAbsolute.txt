@@ -1,0 +1,10 @@
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.csprojResolveAssemblyReference.cache
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.Form1.resources
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.Properties.Resources.resources
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.csproj.GenerateResource.Cache
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.csproj.CoreCompileInputs.cache
+C:\c#Project\CSAssignment1\CSAssignment1\bin\Debug\CSAssignment1.exe.config
+C:\c#Project\CSAssignment1\CSAssignment1\bin\Debug\CSAssignment1.exe
+C:\c#Project\CSAssignment1\CSAssignment1\bin\Debug\CSAssignment1.pdb
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.exe
+C:\c#Project\CSAssignment1\CSAssignment1\obj\Debug\CSAssignment1.pdb
